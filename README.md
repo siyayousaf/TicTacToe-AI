@@ -28,6 +28,6 @@ The AI assumes the opponent always plays optimally and chooses the move that max
 
 ## How to Run
 1. Compile the program: ```bash
-   javac TicTacToeGame.java
+   javac TicTacToeAI.java
    ```bash
-   javac TicTacToeGame.java
+   javac TicTacToeAI.java
